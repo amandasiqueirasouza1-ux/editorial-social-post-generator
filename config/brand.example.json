@@ -1,0 +1,13 @@
+{
+  "name": "YOUR BRAND",
+  "accent": "#E53E6B",
+  "support": "#A8A8A8",
+  "light_background": "#F8F8F5",
+  "light_text": "#111111",
+  "dark_background": "#0B0B0B",
+  "dark_text": "#FFFFFF",
+  "title_font": "Arial Narrow, Arial, sans-serif",
+  "support_font": "Arial, sans-serif",
+  "width": 1080,
+  "height": 1350
+}
